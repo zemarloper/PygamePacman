@@ -8,7 +8,6 @@ You will need to import 2 libraries for this game. To install, type the commands
 
 **Pygame Library:**
 
-```bash
 pip install pygame
 
 To start, you will click the "Start Game" button and will be in the game. Move Pacman using the arrow keys and try to collect all cookies. When all cookies are collected, the second level will begin. There is also an option to begin with the second level first. When a "Game Over" or "You Win" screen appears, you can go back to the start menu by pressing any key on the keyboard.
